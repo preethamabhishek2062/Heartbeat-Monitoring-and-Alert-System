@@ -4,17 +4,17 @@
 
 # Heart Rate Monitoring Graph with Abmormal conditions 
 
-https://github.com/preethamabhishek2062/Heartbeat-Monitoring-and-Alert-System/blob/main/Heart%20Rate%20Monitoring%20%20Graph%20with%20Abmormal%20conditions%20(1).png?raw=true![image](https://user-images.githubusercontent.com/76392717/125952951-811aa483-95dd-44f9-a157-ed6af533035a.png)
+https://user-images.githubusercontent.com/76392717/125952951-811aa483-95dd-44f9-a157-ed6af533035a.png
 
-https://github.com/preethamabhishek2062/Heartbeat-Monitoring-and-Alert-System/blob/main/Heart%20Rate%20Monitoring%20%20Graph%20with%20Abmormal%20conditions.png?raw=true![image](https://user-images.githubusercontent.com/76392717/125952979-ab157b96-cbb3-48a4-9170-a53401c50203.png)
+https://user-images.githubusercontent.com/76392717/125952979-ab157b96-cbb3-48a4-9170-a53401c50203.png
 
 # Heart Rate Monitoring Graph
 
-https://github.com/preethamabhishek2062/Heartbeat-Monitoring-and-Alert-System/blob/main/Heart%20Rate%20Monitoring%20Graph.png?raw=true![image](https://user-images.githubusercontent.com/76392717/125953051-19b0b3f7-62e5-433f-87f6-8288e848d01c.png)
+https://user-images.githubusercontent.com/76392717/125953051-19b0b3f7-62e5-433f-87f6-8288e848d01c.png
 
 # Results
 
-https://github.com/preethamabhishek2062/Heartbeat-Monitoring-and-Alert-System/blob/main/Screenshot%20(107).png?raw=true![image](https://user-images.githubusercontent.com/76392717/125953144-d7963030-f282-463c-8ad5-c54acc2a7ad8.png)
+https://user-images.githubusercontent.com/76392717/125953144-d7963030-f282-463c-8ad5-c54acc2a7ad8.png
 
 
 
